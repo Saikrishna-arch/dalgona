@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@500&display=swap');
+body{font-family: 'Source Code Pro', monospace;
+    background-color: peachpuff ;
+}
+h2{
+    color: brown;
+    text-decoration: underline;
+}
+button{
+    background: brown;
+    color:white;
+    font-size:120%;
+}
